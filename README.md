@@ -13,7 +13,7 @@ And the main technologies I'm using are:
 <p align="left">  <img  alt="Python"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"> 
 <img  alt="R"  src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="50">
 <img  alt="OpenCV"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="50">
-<img  alt="Postgres"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="70" height="50">
+<img  alt="Postgres"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50">
 <img  alt="GIT"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50">
 <img  alt="Docker"  src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" height="50">
 <p>
