@@ -19,5 +19,5 @@ And the main technologies I'm using are:
 <p>
 
 You can see some of my work here, and also in:
-  <p><a  href="kaggle.com/sslp23/code">  <img  alt="Kaggle"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50">  </a> 
+  <p><a  href="https://www.kaggle.com/sslp23/code">  <img  alt="Kaggle"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50">  </a> 
   <a  href="https://www.linkedin.com/in/sergio-pessoa-079317187/">  <img alt="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50">  </a> </p>
