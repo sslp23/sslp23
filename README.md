@@ -3,7 +3,7 @@
 
 Hello, I'm Sergio, a computer engineer student from Recife, Pernambuco. Currently my main interests are:
 
-- Data Science & Applied Stastics using programming languages :bar_chart:
+- Data Science & Applied Statistics using programming languages :bar_chart:
 - Quantitative financial analysis :chart_with_upwards_trend:
 - Machine Learning and Deep Learning :triangular_ruler:
 
