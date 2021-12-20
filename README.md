@@ -7,8 +7,6 @@ Hello, I'm Sergio, a computer engineer student from Recife, Pernambuco. Currentl
 - Quantitative financial analysis :chart_with_upwards_trend:
 - Machine Learning and Deep Learning :triangular_ruler:
 
-I'm also working with Computer Vision and IoT in my current job!
-
 And the main technologies I'm using are:
 <p align="left">  <img  alt="Python"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"> 
 <img  alt="R"  src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="50">
