@@ -1,7 +1,7 @@
 
 # Sergio Pessoa :brazil:
 
-Hello, I'm Sergio, a computer engineer student from Recife, Pernambuco. Currently my main interests are:
+Hello, I'm Sergio, a computer engineer from Recife, Pernambuco. Currently my main interests are:
 
 - Data Science & Applied Statistics using programming languages :bar_chart:
 - Quantitative financial analysis :chart_with_upwards_trend:
