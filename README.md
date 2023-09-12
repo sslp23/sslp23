@@ -1,14 +1,14 @@
 
 # Sergio Pessoa :brazil:
 
-Hello, I'm Sergio, a computer engineer from Recife, Pernambuco. Currently my main interests are:
+Hello, I'm Sergio, a computer engineer from Recife, Pernambuco. Currently, my main interests are:
 
 - Data Science & Applied Statistics using programming languages :bar_chart:
 - Quantitative financial analysis :chart_with_upwards_trend:
 - Machine Learning and Deep Learning :triangular_ruler:
 - Sports Analytics :soccer:
 
-And the main technologies I'm using are:
+The main technologies I'm using are:
 <p align="left">  <img  alt="Python"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30"> 
 <img  alt="R"  src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="30">
 <img  alt="OpenCV"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30">
@@ -20,4 +20,5 @@ And the main technologies I'm using are:
 You can see some of my work here, and also in:
   <p><a  href="https://www.kaggle.com/sslp23/code">  <img  alt="Kaggle"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30">  </a> 
   <a  href="https://www.linkedin.com/in/sergio-pessoa-079317187/">  <img alt="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30">  </a> 
-  <a  href="https://medium.com/@sslp23">  <img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30">  </a> </p>
+  <a  href="https://medium.com/@sslp23">  <img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30">  </a>
+  <a  href="https://twitter.com/sergiopessoa23">  <img alt="Twitter" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" height="30">  </a> </p>
