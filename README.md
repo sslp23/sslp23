@@ -21,4 +21,4 @@ You can see some of my work here, and also in:
   <p><a  href="https://www.kaggle.com/sslp23/code">  <img  alt="Kaggle"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30">  </a> 
   <a  href="https://www.linkedin.com/in/sergio-pessoa-079317187/">  <img alt="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30">  </a> 
   <a  href="https://medium.com/@sslp23">  <img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30">  </a>
-  <a  href="https://twitter.com/sergiopessoa23">  <img alt="Twitter" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" height="30">  </a> </p>
+  <a  href="https://twitter.com/sergiopessoa23">  <img alt="Twitter" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" height="30">  </a> </p>
