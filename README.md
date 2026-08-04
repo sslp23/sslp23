@@ -15,7 +15,7 @@ at **Insight Sport**, where I build analytics for football clubs.
 - 🧠 **AI development** — building with LLMs and agents, and figuring out where they actually
   earn their keep in a data workflow.
 
-### Tools of the trade
+### Stack
 
 <p>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
